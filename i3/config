@@ -19,6 +19,14 @@ exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
 
 bindsym $alt+F4 exec --no-startup-id systemctl poweroff -i, mode "default"
 
+#--------------------------------------------------
+# Increase screen brightness
+bindsym XF86MonBrightnessUp exec --no-startup-id brightnessctl s +10%
+
+# Decrease screen brightness
+bindsym XF86MonBrightnessDown exec --no-startup-id brightnessctl s 10%-
+
+
 #--- ПРИВЯЗКА К ВОРКСПЕЙСАМ --------------------------------------
 #assign [class="Lutris"] $ws6
 
