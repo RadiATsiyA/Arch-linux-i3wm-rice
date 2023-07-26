@@ -1,5 +1,5 @@
 # Linux rice
-### Pure Arch and I3wm
+### Arch and I3wm
 
 ![image](https://github.com/RadiATsiyA/Arch-linux-i3wm-rice/blob/main/2023-07-10-165812_1920x1080_scrot.png)
 
